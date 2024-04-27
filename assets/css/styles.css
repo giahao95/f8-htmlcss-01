@@ -616,6 +616,10 @@ a {
   border-radius: 6px;
 }
 
+.footer .social-icon a:hover {
+  background-color: #c2c2c2;
+}
+
 .footer .social-icon a + a {
   margin-left: 15px;
 }
