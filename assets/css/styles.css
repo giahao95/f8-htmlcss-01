@@ -592,7 +592,7 @@ a {
   margin-top: 40px;
 }
 
-.footer .social-icon i {
+.footer .social-icon a {
   display: inline-block;
   width: 28px;
   height: 28px;
